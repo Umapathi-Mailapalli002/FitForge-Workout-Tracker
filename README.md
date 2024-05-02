@@ -1,1 +1,1 @@
-"# FitForge-Workout-Tracker => this is a first web application which i made this with tailwind css and javascript to perform different pages i used the event listner DomConentLoad event to load the dom before preview the page which can handle the brower eroors."
+"# FitForge-Workout-Tracker => this is a first web application which i made this with tailwind css and javascript to perform different pages i used the event listner DomConentLoad event to load the dom before preview the page which can handle the brower erorrs."
